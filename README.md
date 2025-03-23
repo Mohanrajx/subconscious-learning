@@ -130,7 +130,7 @@ streamlit run gui/app.py
 - 🔹 **Supervised the team and managed research & development**  
 - 🔹 **Finalized report, documentation, and deployment strategies**  
 
-### **Team Members & Responsibilities:**  
+### **Contributors:**  
 ### **1️⃣ Aravindhan R (Data Collection & Preprocessing)**
 - Finds and cleans **EEG sleep datasets** (PhysioNet, Sleep-EDF, etc.).
 - Applies **feature extraction** for sleep stage classification.
