@@ -165,7 +165,3 @@ streamlit run gui/app.py
 
 ---
 
-## 💡 **Conclusion**  
-This project aims to **bridge the gap between neuroscience and artificial intelligence** by enabling **subconscious learning** through **intelligent sleep monitoring and adaptive content delivery**.  
-
-🚀 **Let’s push the boundaries of AI-powered learning!**  
